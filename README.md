@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in TypeScript where implicit type coercion can lead to runtime errors. The `bug.ts` file shows the code with the error. The `bugSolution.ts` file shows how to fix the error using explicit type checking.
